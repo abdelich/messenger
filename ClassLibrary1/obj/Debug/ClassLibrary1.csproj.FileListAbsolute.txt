@@ -1,0 +1,7 @@
+D:\NURE\sem2\prog\Messenger\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\NURE\sem2\prog\Messenger\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\NURE\sem2\prog\Messenger\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\NURE\sem2\prog\Messenger\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\NURE\sem2\prog\Messenger\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\NURE\sem2\prog\Messenger\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\NURE\sem2\prog\Messenger\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
