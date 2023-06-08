@@ -61,6 +61,8 @@ namespace ChatClient
 
                 tbUsername.IsEnabled = true;
 
+                lbUsers.Items.Clear();
+
                 connectionButton.Content = "Подключиться";
                 isConnected = false;
             }
